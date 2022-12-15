@@ -1,2 +1,2 @@
-# -registerOISHI1
+# registerOISHI1
 ลงทะเบียน
